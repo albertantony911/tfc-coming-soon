@@ -169,6 +169,7 @@ background-color: #648ccb;
 
 body {
   border: 0 none;
+  overflow: hidden
   
   font-size: 100%;
   margin: 0;
