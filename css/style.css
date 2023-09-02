@@ -711,6 +711,16 @@ support for no js
   
 }
 
+.medium-title-text{
+	font-family: 'Poppins',Arial,Helvetica,sans-serif;
+	font-size: 18px;
+	line-height: 72px;
+	font-weight: 500;
+  letter-spacing:2px;
+  color:var(--white);
+  
+}
+
 .bg-color{
  background-color: #4b4e53;
 }
