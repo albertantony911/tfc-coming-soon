@@ -732,6 +732,7 @@ support for no js
 	font-weight: 300;
   letter-spacing:1px;
   color:var(--white);
+  cursor: default;
   
 }
 
@@ -739,12 +740,14 @@ support for no js
 .small-title-text a {
   color: white; /* Text color in normal state */
   text-decoration: none; /* Remove underline in normal state */
+  cursor: default;
 }
 
 /* Hover state styling */
 .small-title-text a:hover {
   color: white; /* Change text color on hover to a different color (e.g., orange) */
   /* You can replace #FFA500 with your desired hover color */
+  cursor: default;
 }
 
 
