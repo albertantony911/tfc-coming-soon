@@ -736,6 +736,17 @@ support for no js
 }
 
 
+.small-title-text a {
+  color: white; /* Text color in normal state */
+  text-decoration: none; /* Remove underline in normal state */
+}
+
+/* Hover state styling */
+.small-title-text a:hover {
+  color: white; /* Change text color on hover to a different color (e.g., orange) */
+  /* You can replace #FFA500 with your desired hover color */
+}
+
 
 
 
